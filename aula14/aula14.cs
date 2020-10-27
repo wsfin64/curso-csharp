@@ -6,7 +6,7 @@ class Aula14 {
 
     static void Main() {
 
-        Console.WriteLine("Teste")
+        Console.WriteLine("Teste");
 
     }
 }
